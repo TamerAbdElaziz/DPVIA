@@ -1,5 +1,4 @@
-# DPVIA
-DPVIA ( Design Pattern Violations Identification and Assessment Tool )
+# DPVIA ( Design Pattern Violations Identification and Assessment Tool )
 
 The automated tool is free and available to download it from URL: https://goo.gl/sybKAW, then unzip the downloaded file. 
 
@@ -16,5 +15,7 @@ There will be two folders named "pattern" and "Repository", as well executable J
 
 # Contact Me
 Don't hesitate to contact me, if you have any question,
+
 Email address: tamer dot a dot yassen at fci dot helwan dot edu dot eg 
+
 Tamer AbdElaziz Yassen.
