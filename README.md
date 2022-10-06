@@ -1,6 +1,6 @@
 # DPVIA ( Design Pattern Violations Identification and Assessment Tool )
 
-Read our paper "Identification and Assessment of Software Design Pattern Violations" for more detials. https://arxiv.org/abs/1906.01419
+Read our paper "Identification and Assessment of Software Design Pattern Violations" for more detials. https://fcihib.journals.ekb.eg/article_107517_62d89752f7d871844b0e5dd1601da4f5.pdf
 
 This automated tool is free and available to download it from URL: https://drive.google.com/uc?id=1dGamIVv7nBXLJ-v39U3LE0vdPXmia-sX&export=download , then unzip the downloaded file. 
 
